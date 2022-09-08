@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">App1</string>
+    <string name="sion">Sion</string>
+    <string name="calificar">Calificar</string>
+    <string name="foto_conductor">foto conductor</string>
+    <string name="comentarios">Comentarios</string>
+    <string name="ingrese_comentarios">Ingrese comentarios</string>
+</resources>
